@@ -1,7 +1,5 @@
 # Ultimate Tic-Tac-Toe (Java port) v1.1
 
-Java 21 port of [nelhage/ultimattt](https://github.com/nelhage/ultimattt).
-
 ## What's new in 1.1
 - Stronger AI (better evaluation + move ordering + deeper search)
 - Default time limit **5 seconds** per move (stays comfortably under 6 s)
