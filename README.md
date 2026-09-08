@@ -39,6 +39,7 @@ mvn package
 java -jar target/ultimattt-1.0.0.jar
 ```
 
+hi lol
 ## Move notation
 Two letters `a`–`i` (local board + square), e.g. `ee` = center of center board.
 
